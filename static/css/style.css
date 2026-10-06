@@ -1,0 +1,27 @@
+body {
+    background-color: #FFF8F0;
+}
+
+.navbar {
+    background-color: #F8C8DC !important;
+}
+
+h2 {
+    color: #6D597A;
+}
+
+.btn-primary {
+    background-color: #BDE0FE;
+    border-color: #BDE0FE;
+    color: #333;
+}
+
+.table {
+    background-color: #FFFFFF;
+}
+
+.btn-outline-dark {
+    border-color: #CDB4DB;
+    color: #6D597A;
+}
+
